@@ -14,4 +14,4 @@ void FSimpleActionsModule::ShutdownModule()
 
 #undef LOCTEXT_NAMESPACE
 	
-IMPLEMENT_MODULE(FSimpleActionsModule, SimpleActionsModule)
+IMPLEMENT_MODULE(FSimpleActionsModule, SimpleActions)
